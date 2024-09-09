@@ -1,3 +1,3 @@
-交大資工 112 下 - 計算機組織
+112-2 Computer Organization
 ---
-授課老師：葉宗泰
+prof：葉宗泰
