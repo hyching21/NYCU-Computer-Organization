@@ -1,3 +1,1 @@
-112-2 Computer Organization
----
-prof：葉宗泰
+# 112-2 Computer Organization
